@@ -26,18 +26,6 @@ public class IndexController {
 
 
 
-    public void gitTest(){
-        System.out.println("aaaaaaaaaa");
-         System.out.println("bbbb");
-        System.out.println("cccccccc");
-    }
-
-
-
-
-
-
-
     // 新增和修改
     @PostMapping
     public Integer save(@RequestBody User user) {
