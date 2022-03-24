@@ -29,6 +29,7 @@ public class IndexController {
     public void gitTest(){
         System.out.println("aaaaaaaaaa");
          System.out.println("bbbb");
+        System.out.println("cccccccc");
     }
 
 
